@@ -28,4 +28,4 @@ function merge(letfArr, rightArr) {
 
 console.log(mergeSort(arr))
 
-// BigO = O(n^2) - Linear time complexity
+// BigO = O(n^2) - Quadratic Time Complexity

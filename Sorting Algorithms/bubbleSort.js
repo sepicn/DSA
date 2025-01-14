@@ -40,4 +40,4 @@ function bubbleSortDesc() {
 console.log(bubbleSortAsc(arr)) // [-6, -2, 4, 8, 20]
 console.log(bubbleSortDesc(arr)) // [20, 8 , 4, -2, -6]
 
-// BigO = O(n^2) - Linear time complexity
+// BigO = O(n^2) - Quadratic Time Complexity

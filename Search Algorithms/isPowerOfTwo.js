@@ -26,10 +26,11 @@ function isPowerOfTwoBitWise(n) {
 
   return (n & (n - 1)) === 0
 }
-// BigO = O(1) - Constant time complexity
 console.log(isPowerOfTwo(1))
 console.log(isPowerOfTwo(2))
 console.log(isPowerOfTwo(5))
 console.log(isPowerOfTwoBitWise(1))
 console.log(isPowerOfTwoBitWise(2))
 console.log(isPowerOfTwoBitWise(5))
+
+// BigO = O(1) - Constant time complexity
